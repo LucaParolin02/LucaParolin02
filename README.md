@@ -3,7 +3,7 @@
 
 🌎 San Miguel, Buenos Aires, Argentina  
 📩 Contacto: lucaparolin02@gmail.com 
-🔗 [LinkedIn] https://www.linkedin.com/in/luca-parolin/ 
+🔗 LinkedIn: https://www.linkedin.com/in/luca-parolin/ 
 
 ---
 
