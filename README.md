@@ -49,7 +49,7 @@ Me interesa construir software que no solo funcione, sino que pueda desplegarse,
 
 ---
 
-## 🚀 Portfolio fullstack desplegado
+## 🚀 Portfolio personal
 
 Desarrollé y desplegué mi portfolio personal como una aplicación fullstack real, no solo como una landing estática.
 
@@ -69,19 +69,6 @@ Desarrollé y desplegué mi portfolio personal como una aplicación fullstack re
 - **Seguridad base:** servicios internos no expuestos, HTTPS, variables de entorno y reverse proxy  
 
 Este proyecto me permitió trabajar el flujo completo de una aplicación productiva: desarrollo, API, base de datos, contenedores, dominio, SSL, despliegue y mantenimiento.
-
----
-
-## 📌 Proyectos destacados
-
-### 🌐 Portfolio personal fullstack
-Aplicación fullstack desplegada en producción con frontend, API, base de datos, dominio propio, HTTPS y formulario de contacto funcional.
-
-**Stack:** React, Vite, TypeScript, Tailwind, FastAPI, PostgreSQL, Docker, NGINX, DigitalOcean, Resend.
-
-🔗 [Ver portfolio](https://lucaparolin.me)
-
----
 
 ### 🧩 Proyecto Final Bootcamp ASJ
 Proyecto integrador desarrollado durante el Bootcamp de ASJ, aplicando conocimientos de backend, frontend, lógica de negocio e integración.
