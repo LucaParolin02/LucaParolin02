@@ -1,7 +1,7 @@
 # 💻 Luca Parolin  
-🚀 **Junior Full Stack Developer** | Java | Spring Boot | Angular | TypeScript | React | C# | Astro
+🚀 **SSr Full Stack Developer** | Java | Spring Boot | Angular | TypeScript | React | C# | Astro
 
-🌎 San Miguel, Buenos Aires, Argentina  
+🌎 Buenos Aires, Argentina  
 📩 Contacto: lucaparolin02@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/luca-parolin/ 
 
